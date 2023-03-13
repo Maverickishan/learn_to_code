@@ -1,0 +1,9 @@
+NOTES
+#h = sum( [(x in like) - (x in dislike) for x in arr])
+        for i in arr:
+    for j in A:
+        if i==j:
+            count+=1
+    for k in B:
+        if k==i:
+            count-=1
